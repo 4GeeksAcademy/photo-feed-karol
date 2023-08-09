@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+   justify-content: center;
+}
+.feed-instagram{
+    width: 600px;
+    height: 550px;
+    margin: auto;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    
+}
+
+.feed-fecha{
+    display: flex;
+    float: right;
+    margin: 0.5em 0.5em;
+}
+
+p{
+    margin: 0.5em 1em 1em;
+}
+
+.feed-conteiner{
+    padding-bottom: 30px;
+    background-color: whitesmoke;
+}
